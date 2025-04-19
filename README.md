@@ -1,1 +1,1 @@
-# Luma-Derm-Skin-Disease-Detection-System-
+# Luma-Derm-Skin-Disease-Detection-System
